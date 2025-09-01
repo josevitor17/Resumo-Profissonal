@@ -22,7 +22,7 @@ I am a developer in career transition, bringing over 6 years of entrepreneurship
 <div align="center">
 
 <details>
-<summary>Click to see my technical skills (carousel style)</summary>
+<summary>Click to see my technical hard skills </summary>
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
