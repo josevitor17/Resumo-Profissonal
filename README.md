@@ -60,7 +60,7 @@ I am a developer in career transition, bringing over 6 years of entrepreneurship
 ## 📫 Contact
 - 📧 Email: **josevitorborges17@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/josé-desenvolvedor](https://linkedin.com/in/josé-desenvolvedor)  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(add if available)*  
+- 🌐 Portfolio: [your-portfolio.com](https://josevitor17.github.io/Meu-Portifolio/) 
 
 ---
 
