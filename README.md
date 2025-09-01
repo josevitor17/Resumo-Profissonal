@@ -1,3 +1,4 @@
+<!-- Banner / Hero Section -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/josevitor17/Resumo-Profissonal/3cb803ca8a9f95c2d843e3fd5d006ec9cd478b4d/capafull.png" 
        alt="Banner" width="100%" style="max-height:300px; object-fit:cover; border-radius:12px;"/>
@@ -10,11 +11,14 @@
 🌱 Constantly learning and improving my skills
 </p>
 
+---
 
 ## 📝 About Me
 <p align="center">
 I am a developer in career transition with over 6 years of experience as an entrepreneur in sales. This experience developed my proactivity, problem-solving, and self-management skills. I enjoy building high-quality applications that combine performance, usability, and clean design.
 </p>
+
+---
 
 ## 🛠️ Hard Skills
 <div align="center" style="margin-top: 10px; margin-bottom: 20px;">
@@ -27,6 +31,8 @@ I am a developer in career transition with over 6 years of experience as an entr
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="35"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="35"/>
 </div>
+
+---
 
 ## 🚀 Featured Projects
 <div align="center">
@@ -42,16 +48,39 @@ Real-time currency converter using JavaScript for accurate calculations.
 
 </div>
 
-## 📊 GitHub Stats & Contributions
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=josevitorWeb&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+## 📊 GitHub Stats
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitorWeb&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+<!-- Commits -->
+<img src="https://img.shields.io/badge/Commits-500+-blue?style=for-the-badge&logo=git&logoColor=white" alt="Commits" height="35"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josevitorWeb&theme=react-dark&area=true&hide_border=false" alt="GitHub Contributions Graph" />
+<!-- PRs -->
+<img src="https://img.shields.io/badge/Pull%20Requests-120-green?style=for-the-badge&logo=github&logoColor=white" alt="PRs" height="35"/>
+
+<!-- Issues -->
+<img src="https://img.shields.io/badge/Issues-50-orange?style=for-the-badge&logo=github&logoColor=white" alt="Issues" height="35"/>
+
+<!-- Stars -->
+<img src="https://img.shields.io/badge/Stars-75-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Stars" height="35"/>
+
+<!-- Forks -->
+<img src="https://img.shields.io/badge/Forks-30-purple?style=for-the-badge&logo=github&logoColor=white" alt="Forks" height="35"/>
 
 </div>
+
+<div align="center" style="margin-bottom: 20px;">
+<!-- Top Languages gráfico -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitorWeb&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
+</div>
+
+<div align="center">
+<!-- Contribution graph moderno -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=josevitorWeb&theme=react-dark&area=true&hide_border=false" alt="GitHub Contributions Graph" />
+</div>
+
+---
 
 ## 📫 Contact
 <div align="center">
@@ -69,6 +98,8 @@ Real-time currency converter using JavaScript for accurate calculations.
 </a>
 
 </div>
+
+---
 
 ## ✨ Inspirational Quote
 <p align="center">
