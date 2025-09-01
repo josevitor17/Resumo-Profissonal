@@ -34,7 +34,7 @@
 
 ## 📫 How to reach me  
 - 📧 Email: **josevitorborges17@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/josevitor-desenvolvedor](https://linkedin.com/in/josevitor-desenvolvedor)  
+- 💼 LinkedIn: [linkedin.com/in/josevitor-desenvolvedor](https://linkedin.com/in/josé-desenvolvedor)  
 
 ---
 
