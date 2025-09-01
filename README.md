@@ -1,8 +1,6 @@
+<!-- Banner / Cover Photo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/josevitor17/Resumo-Profissonal/3cb803ca8a9f95c2d843e3fd5d006ec9cd478b4d/capafull.png" 
-       alt="Banner" 
-       width="100%" 
-       style="max-height: 150px; object-fit: cover;"/>
+  <img src="https://raw.githubusercontent.com/josevitor17/Resumo-Profissonal/3cb803ca8a9f95c2d843e3fd5d006ec9cd478b4d/capafull.png" alt="Banner" width="100%" style="max-height:250px; object-fit:cover;"/>
 </p>
 
 # 👋 Hi, I'm José Vitor
@@ -11,18 +9,14 @@
 🚀 Passionate about building clean, scalable, and user-friendly applications  
 🌱 Constantly improving my skills, exploring new technologies, and applying real-world experience in software projects  
 
----
-
 ## 📝 About Me
-I am a developer in career transition, bringing over 6 years of entrepreneurship and sales experience. This background gave me strong self-management, proactivity, and problem-solving skills, which I now apply to full stack development. I enjoy creating solutions that combine functionality, performance, and great user experience. My goal is to deliver high-quality projects that make a real impact.
-
----
+I am a developer in career transition, bringing over 6 years of entrepreneurship and sales experience. This gave me strong self-management, proactivity, and problem-solving skills. I enjoy creating high-quality projects that are functional, fast, and have an excellent user experience.  
 
 ## 🛠️ Hard Skills
 <div align="center">
 
 <details>
-<summary>Click to see my technical hard skills </summary>
+<summary>Click to see my technical skills (carousel style)</summary>
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -35,34 +29,27 @@ I am a developer in career transition, bringing over 6 years of entrepreneurship
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </div>
 </details>
-
 </div>
-
----
 
 ## 🚀 Featured Projects
 - **[Projeto React](https://josevitor17.github.io/projeto-react/)** – Web application using React and Node.js  
 - **[Meu Portfólio](https://josevitor17.github.io/Meu-Portifolio/)** – Interactive dashboard with TailwindCSS  
 - **[Conversor de Moeda](https://josevitor17.github.io/Conversor-De-Moeda/)** – Currency converter project with JavaScript  
 
----
-
 ## 📊 GitHub Stats
 <div align="center">
-
 ![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitorWeb&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josevitorWeb&layout=compact&theme=radical)  
 
+![GitHub Contributions](https://github.com/josevitor17/Resumo-Profissonal/raw/main/contributions-graph.png)
 </div>
 
----
-
 ## 📫 Contact
-- 📧 Email: **josevitorborges17@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/josé-desenvolvedor](https://linkedin.com/in/josé-desenvolvedor)  
-- 🌐 Portfolio: [your-portfolio.com](https://josevitor17.github.io/Meu-Portifolio/) 
-
----
+<div align="center">
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josevitorborges17@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josevitor17)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-desenvolvedor)
+</div>
 
 ## ✨ Inspirational Quote
 *"Code is never about perfection, but about constant evolution."*
