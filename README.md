@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/josevitor17/Resumo-Profissonal/3cb803ca8a9f95c2d843e3fd5d006ec9cd478b4d/capafull.png" 
        alt="Banner" 
        width="100%" 
-       style="max-height: 250px; object-fit: cover;"/>
+       style="max-height: 150px; object-fit: cover;"/>
 </p>
 
 # 👋 Hi, I'm José Vitor
