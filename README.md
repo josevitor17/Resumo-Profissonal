@@ -33,8 +33,8 @@
 ---
 
 ## 📫 How to reach me  
-- 📧 Email: **seuemail@email.com**  
-- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- 📧 Email: **josevitorborges17@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/josevitor-desenvolvedor](https://linkedin.com/in/josevitor-desenvolvedor)  
 
 ---
 
