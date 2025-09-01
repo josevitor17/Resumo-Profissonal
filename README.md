@@ -1,5 +1,7 @@
 <!-- Banner / Foto de Capa -->
-![Banner](https://raw.githubusercontent.com/josevitor17/Resumo-Profissonal/3cb803ca8a9f95c2d843e3fd5d006ec9cd478b4d/capafull.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/josevitor17/Resumo-Profissonal/3cb803ca8a9f95c2d843e3fd5d006ec9cd478b4d/capafull.png" alt="Banner" width="80%" height="auto"/>
+</p>
 
 # 👋 Hi, I’m José Vitor  
 
